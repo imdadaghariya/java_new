@@ -1,4 +1,4 @@
-package Java_new;
+
 
 public class string {
     public static void main(String []args){

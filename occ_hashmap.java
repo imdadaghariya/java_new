@@ -1,4 +1,4 @@
-package Java_new;
+
 import java.util.HashMap;
 public class occ_hashmap {
     public static void main(String []args){

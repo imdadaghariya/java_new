@@ -1,4 +1,4 @@
-package Java_new;
+
 
 public class string_array_occ {
     public static void main(String []args){

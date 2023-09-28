@@ -1,4 +1,4 @@
-package Java_new;
+
 
 public class array {
     public static void main(String []args){
