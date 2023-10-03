@@ -1,4 +1,5 @@
-
+import java.util.ArrayList;
+import java.util.Arrays;
 
 public class array {
     public static void main(String []args){
@@ -92,6 +93,18 @@ public class array {
             }
         }
         System.out.println(largest + " "+ second_largest);
+
+
+
+        // ---------------------------- Arrays.sort function ------------------------------------ 
+
+
+        int[] arrr = {10, 50, 20, 15, 35, 22, 38, 31};
+        Arrays.sort(arrr);
+        System.out.println("--------- Sorted Array by inbuilt function--------");
+        for(int k : arrr){
+            System.out.println(k);
+        }
         
     }
 }
