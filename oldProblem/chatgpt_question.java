@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.ArrayList;
 public class chatgpt_question{
     public static void main(String []args){

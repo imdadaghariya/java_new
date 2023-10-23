@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class MajorityElementFinder {
     public static void main(String[] args) {
         int[] nums = {3,3,4,4,4,1,5,6,7,8,9}; // Replace this with the desired array.

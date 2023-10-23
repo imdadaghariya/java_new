@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class gpt_palindrome {
     public static void main(String[] args) {
         String input = "imdadhusain";

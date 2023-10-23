@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.ArrayList;
 public class Union_by_list {
     public static void main(String[] args) {

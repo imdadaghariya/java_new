@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.HashMap;
 public class chatgpt_occurence {
     public static void main(String []args){

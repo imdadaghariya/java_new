@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class array_e_o {
     public static void main(String[] args) {
         int []arr = {2, 7, 4, 9, 12, 17, 22, 31, 6, 1};

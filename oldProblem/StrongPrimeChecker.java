@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class StrongPrimeChecker {
     public static void main(String[] args) {
         int number = 97; // Replace this with the desired number.

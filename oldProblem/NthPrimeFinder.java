@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class NthPrimeFinder {
     public static void main(String[] args) {
         int n = 5; // Replace this with the desired value of n.

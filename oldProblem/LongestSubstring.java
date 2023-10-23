@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.HashSet;
 
 public class LongestSubstring {

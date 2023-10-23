@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.HashMap;
 public class freq_number {
     public static void main(String []match){

@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class PrimeNumberPrinter {
     public static void main(String[] args) {
         int start = 10; // Replace this with the desired start of the range.

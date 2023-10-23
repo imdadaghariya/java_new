@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class StringPalindromeChecker {
     public static void main(String[] args) {
         String input = "radar".toLowerCase(); // Replace this with the desired string.

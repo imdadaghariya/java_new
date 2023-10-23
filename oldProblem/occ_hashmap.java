@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 
 import java.util.HashMap;
 public class occ_hashmap {

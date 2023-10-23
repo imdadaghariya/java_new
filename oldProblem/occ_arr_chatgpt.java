@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class occ_arr_chatgpt {
     public static void main(String []args){
         String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";

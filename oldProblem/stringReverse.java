@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class stringReverse {
     public static void main(String[] args) {
         String input = "Imdadhusain ,aghariya";

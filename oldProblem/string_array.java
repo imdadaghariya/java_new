@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 
 
 public class string_array {

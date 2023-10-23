@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class FirstRepeatedCharacter {
     public static void main(String[] args) {
         String input = "arogramming"; // Replace this with the desired string.

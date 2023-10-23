@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class MinMaxFinder {
     public static void main(String[] args) {
         int[] numbers = {4, 7, 2, 9, 1, 5, 6};

@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class PrimeSumCalculator {
     public static void main(String[] args) {
         int start = 10; 

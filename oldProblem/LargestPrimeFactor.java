@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class LargestPrimeFactor {
     public static void main(String[] args) {
         int number = 57; // Replace this with the desired number.

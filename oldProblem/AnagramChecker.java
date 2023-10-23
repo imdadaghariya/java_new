@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.Arrays;
 
 public class AnagramChecker {

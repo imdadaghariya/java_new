@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class CharacterCounter1 {
     public static void main(String[] args) {
         String input = "hello"; // Replace this with the desired string.

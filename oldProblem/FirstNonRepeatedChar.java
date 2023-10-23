@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class FirstNonRepeatedChar {
     public static void main(String[] args) {
         String input = "orogramming";

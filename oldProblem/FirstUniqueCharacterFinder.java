@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class FirstUniqueCharacterFinder {
     public static void main(String[] args) {
         String input = "leetcode"; // Replace this with the desired string.

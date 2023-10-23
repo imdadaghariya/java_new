@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class contains_dup {
         public static void main(String[] args) {
             int[] numbers = {12, 45, 7, 32, 19, 54, 8, 23};

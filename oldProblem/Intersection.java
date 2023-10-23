@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.ArrayList;
 public class Intersection {
     public static void main(String []args){

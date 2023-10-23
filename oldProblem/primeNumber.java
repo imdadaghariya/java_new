@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 import java.util.Scanner;
 
 public class primeNumber {

@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class PalindromeChecker {
     public static void main(String[] args) {
         String input = "A man, a plan, a canal, Panama!".toLowerCase(); // Replace this with the desired string.

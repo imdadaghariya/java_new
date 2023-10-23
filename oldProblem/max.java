@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class max {
     public static void main(String[] args) {
         int arr[] = {2,3,4,6,8,10};

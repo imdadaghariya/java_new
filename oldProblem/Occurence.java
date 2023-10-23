@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class Occurence {
     public static void main(String []args){
         int[] numbers = {2, 5, 8, 5, 3, 5, 9, 5, 1, 5};

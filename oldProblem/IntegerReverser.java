@@ -1,4 +1,4 @@
-package chatGPTQuestion;
+
 public class IntegerReverser {
     public static void main(String[] args) {
         int number = 12345; // Replace this with the desired number.
